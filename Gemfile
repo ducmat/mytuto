@@ -1,12 +1,12 @@
-# frozen_string_literal: true
+# Gemfile
 
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-# gem "rails"
-gem "jekyll"
+gem "jekyll", "~> 4.2"
 
 group :jekyll_plugins do
-    gem "jekyll-sitemap"
-    gem "jekyll-feed"
-    gem "jekyll-seo-tag"
-  end
+  gem "jekyll-timeago", "~> 0.13.1"
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+end

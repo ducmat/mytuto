@@ -1,2 +1,16 @@
 .vscode/settings.json
+_site/*
 Gemfile.lock
+_site/about.html
+_site/blog.html
+_site/feed.xml
+_site/index.html
+_site/robots.txt
+_site/sitemap.xml
+_site/staff.html
+_site/2018/08/21/apples.html
+_site/2018/08/22/kiwifruit.html
+_site/2024/10/19/bananas.html
+_site/assets/css/styles.css
+_site/authors/jill.html
+_site/authors/ted.html
